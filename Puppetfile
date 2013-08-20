@@ -36,3 +36,9 @@ github "xquartz",    "1.1.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+github "java",            "1.1.0"
+github "vagrant",         "2.0.10"
+github "virtualbox",      "1.0.5"
+github "git",             "1.2.5"
+github "tunnelblick",     "1.0.2"
